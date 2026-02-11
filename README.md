@@ -2,11 +2,6 @@
 
 <div align="center">
 
-![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![MPI](https://img.shields.io/badge/MPI-FF6B6B?style=for-the-badge&logoColor=white)
-![HPC](https://img.shields.io/badge/HPC-4ECDC4?style=for-the-badge&logoColor=white)
 
 **Plataforma avançada de computação científica com Julia para análise numérica, simulações e computação de alta performance**
 
@@ -1353,8 +1348,6 @@ MIT License - veja o arquivo [LICENSE](LICENSE) para detalhes | see [LICENSE](LI
 
 **Desenvolvido com ❤️ para Computação Científica | Developed with ❤️ for Scientific Computing**
 
-[![GitHub](https://img.shields.io/badge/GitHub-galafis-blue?style=flat-square&logo=github)](https://github.com/galafis)
-[![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)](https://julialang.org/)
 
 </div>
 
